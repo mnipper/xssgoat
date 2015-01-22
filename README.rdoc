@@ -1,0 +1,3 @@
+== XSSGOAT
+
+This is a project meant to illustrate a common xss vulnerability in rails using link_to.  See blog post: [XSS with Rails link_to](http://nipperlabs.com/xss-with-rails-linkto)
